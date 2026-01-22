@@ -1,5 +1,7 @@
 # Chord-Progression-Generator
 Simple Python script to generate chord progressions for different genres and musical keys.
+Any suggestions or feature updates are wanted! Please don't hesitate to make an issue for a problem or suggestion.
+
 
 Example input:
 ```
