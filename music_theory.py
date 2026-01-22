@@ -169,7 +169,7 @@ def main():
     prog_gen = ProgressionGenerator()
     flavor_db = GenreFlavorProfile()
     
-    print("--- Music Theory & Recommendation Engine v5.0 ---")
+    print("--- Music Theory & Recommendation Engine v1.0 ---")
 
     while True:
         print("\n" + "="*60)
